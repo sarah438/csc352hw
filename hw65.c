@@ -1,3 +1,6 @@
+// this code was generated with the hep of CoPilot
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/time.h>
